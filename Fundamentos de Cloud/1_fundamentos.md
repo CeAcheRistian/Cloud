@@ -28,3 +28,10 @@ Cuando el servicio que necesitamos es una infraestructura se conoce como _IaaS_ 
 La plataforma como serivicio _PaaS_ te deja solo en tus manos las aplicaciones y la data, todo lo demás es problema del provedor.
 
 Y por último, encontramos el sofwtare as a Service _SaaS_, donde es un servicio a consumir, donde el cliente no mete las manos para nada, como un netflix o algo como ese tipo de servicios.
+
+## Billing
+Los costos varian de qué nube se use, lo que vayas a necesitar de esa nube, es decir los recursos a necesitar, llamado usualmente como el modelo _on demand_. Cada nube tiene su _calculadora de precios_, en donde podemos simular lo que necesitaremos como una máquina virtual y sus especificaciones y su tiempo de uso. Hay personas que se dedican a solo este punto, minimizar costos pendendiendo de su uso. 
+
+_Reserved:_ Si se requiere constantemente del servicio (mes con mes), entonces se puede optar por una subscripción o modelo de reserva, para esto se debe contactar con la empresa directamente, esto optimiza el billing.  
+
+Y el último modelo es _spot_. Donde se paga minuto a minuto para servicios en tiempo real.
